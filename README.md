@@ -70,8 +70,8 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
 
 1.  **Projeyi Klonlayın:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[atakanakdogann]/[LiterAI].git
-    cd [LiterAI]
+    git clone https://github.com/atakanakdogann/LiterAI.git
+    cd LiterAI
     ```
 
 2.  **Sanal Ortam Oluşturun ve Aktive Edin:**
