@@ -41,8 +41,8 @@ def load_rag_chatbot():
 
 
 st.set_page_config(page_title="Finansal Okuryazarlık Chatbot", page_icon="💰")
-st.title("💰 Finansal Okuryazarlık Chatbot")
-st.caption("Kendi belgelerinizden beslenen RAG tabanlı yapay zeka asistanı")
+st.title("💰 LiterAI")
+st.caption("Finansal Okuryazarlık için RAG tabanlı yapay zeka asistanı")
 
 chatbot = load_rag_chatbot()
 
